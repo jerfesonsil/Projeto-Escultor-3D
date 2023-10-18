@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1697605866 source:c:\users\jerfeson\desktop\dfdstert\main.cpp
+	"Sculptor.h"
+
+1697644190 c:\users\jerfeson\desktop\dfdstert\include\sculptor.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+
+1697608515 source:c:\users\jerfeson\desktop\dfdstert\src\sculptor.cpp
+	"Sculptor.h"
+
+1697605866 source:c:\users\jerfeson\desktop\projeto_escultor_3d\main.cpp
+	"Sculptor.h"
+
+1697644286 c:\users\jerfeson\desktop\projeto_escultor_3d\include\sculptor.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+
+1697608515 source:c:\users\jerfeson\desktop\projeto_escultor_3d\src\sculptor.cpp
+	"Sculptor.h"
+
